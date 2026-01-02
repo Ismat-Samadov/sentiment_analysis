@@ -1,0 +1,20 @@
+.claude
+dataset
+venv
+
+# Large model files (too big for GitHub)
+artifacts/*.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db

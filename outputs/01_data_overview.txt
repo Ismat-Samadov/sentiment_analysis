@@ -1,0 +1,17 @@
+Training set shape: (27481, 10)
+Test set shape: (4815, 9)
+
+Columns: ['textID', 'text', 'selected_text', 'sentiment', 'Time of Tweet', 'Age of User', 'Country', 'Population -2020', 'Land Area (Km²)', 'Density (P/Km²)']
+
+Data types:
+textID               object
+text                 object
+selected_text        object
+sentiment            object
+Time of Tweet        object
+Age of User          object
+Country              object
+Population -2020      int64
+Land Area (Km²)     float64
+Density (P/Km²)       int64
+dtype: object

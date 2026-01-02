@@ -1,0 +1,60 @@
+
+Example 1:
+Original:  I`d have responded, if I were going
+Cleaned:  responded going
+Sentiment: neutral
+--------------------------------------------------------------------------------
+
+Example 2:
+Original:  Sooo SAD I will miss you here in San Diego!!!
+Cleaned:  sooo sad miss san diego
+Sentiment: negative
+--------------------------------------------------------------------------------
+
+Example 3:
+Original: my boss is bullying me...
+Cleaned:  bos bullying
+Sentiment: negative
+--------------------------------------------------------------------------------
+
+Example 4:
+Original:  what interview! leave me alone
+Cleaned:  interview leave alone
+Sentiment: negative
+--------------------------------------------------------------------------------
+
+Example 5:
+Original:  Sons of ****, why couldn`t they put them on the releases we already bought
+Cleaned:  son couldnt put release already bought
+Sentiment: negative
+--------------------------------------------------------------------------------
+
+Example 6:
+Original: http://www.dothebouncy.com/smf - some shameless plugging for the best Rangers forum on earth
+Cleaned:  shameless plugging best ranger forum earth
+Sentiment: neutral
+--------------------------------------------------------------------------------
+
+Example 7:
+Original: 2am feedings for the baby are fun when he is all smiles and coos
+Cleaned:  feeding baby fun smile coo
+Sentiment: positive
+--------------------------------------------------------------------------------
+
+Example 8:
+Original: Soooo high
+Cleaned:  soooo high
+Sentiment: neutral
+--------------------------------------------------------------------------------
+
+Example 9:
+Original:  Journey!? Wow... u just became cooler.  hehe... (is that possible!?)
+Cleaned:  journey wow became cooler hehe possible
+Sentiment: positive
+--------------------------------------------------------------------------------
+
+Example 10:
+Original:  as much as i love to be hopeful, i reckon the chances are minimal =P i`m never gonna get my cake and stuff
+Cleaned:  much love hopeful reckon chance minimal never gon get cake stuff
+Sentiment: neutral
+--------------------------------------------------------------------------------

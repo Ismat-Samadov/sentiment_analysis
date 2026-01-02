@@ -1,0 +1,12 @@
+Classification Report: Logistic Regression
+================================================================================
+
+              precision    recall  f1-score   support
+
+    negative       0.71      0.62      0.66       999
+     neutral       0.63      0.74      0.68      1416
+    positive       0.79      0.71      0.75      1103
+
+    accuracy                           0.70      3518
+   macro avg       0.71      0.69      0.70      3518
+weighted avg       0.71      0.70      0.70      3518

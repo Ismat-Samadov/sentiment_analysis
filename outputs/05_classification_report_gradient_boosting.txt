@@ -1,0 +1,12 @@
+Classification Report: Gradient Boosting
+================================================================================
+
+              precision    recall  f1-score   support
+
+    negative       0.77      0.42      0.54       999
+     neutral       0.55      0.84      0.67      1416
+    positive       0.81      0.59      0.68      1103
+
+    accuracy                           0.64      3518
+   macro avg       0.71      0.62      0.63      3518
+weighted avg       0.69      0.64      0.64      3518

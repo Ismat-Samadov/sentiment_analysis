@@ -1,0 +1,35 @@
+{
+    "best_model": "Random Forest",
+    "best_accuracy": 0.7038089823763501,
+    "training_date": "2026-01-02 13:46:10",
+    "training_samples": 27384,
+    "test_samples": 3518,
+    "num_features": 5000,
+    "classes": [
+        "neutral",
+        "negative",
+        "positive"
+    ],
+    "all_models_performance": {
+        "Naive Bayes": {
+            "train_accuracy": 0.7288562664329535,
+            "test_accuracy": 0.6475270039795338
+        },
+        "Logistic Regression": {
+            "train_accuracy": 0.7749415717207129,
+            "test_accuracy": 0.6964184195565662
+        },
+        "Linear SVM": {
+            "train_accuracy": 0.7999926964650891,
+            "test_accuracy": 0.6773735076748152
+        },
+        "Random Forest": {
+            "train_accuracy": 0.9880222027461292,
+            "test_accuracy": 0.7038089823763501
+        },
+        "Gradient Boosting": {
+            "train_accuracy": 0.65651475314052,
+            "test_accuracy": 0.6435474701534963
+        }
+    }
+}
