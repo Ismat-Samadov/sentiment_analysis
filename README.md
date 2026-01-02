@@ -44,9 +44,13 @@ This sentiment analysis system can be used for:
 ### Data Source
 
 **Dataset:** [Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset)
+
 **Platform:** Kaggle
+
 **Type:** Social Media Text (Twitter)
+
 **Labeling Method:** Emoticon-based automatic labeling
+
 **License:** Public dataset for research and educational purposes
 
 The dataset contains tweets that were automatically labeled based on emoticons:
