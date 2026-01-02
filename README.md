@@ -707,9 +707,13 @@ For questions about this analysis or to request model improvements, please refer
 ### Dataset Citation
 
 **Title:** Sentiment Analysis Dataset
+
 **Author:** Abhi8923shriv
+
 **Platform:** Kaggle
+
 **URL:** https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
+
 **Year:** 2021
 
 ### Acknowledgments
