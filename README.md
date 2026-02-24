@@ -1,7 +1,7 @@
 # Sentiment Analysis Project - Presentation Report
 
-**Date:** January 2, 2026
-**Objective:** Classify text as **Positive**, **Negative**, or **Neutral** using Machine Learning
+- **Date:** January 2, 2026
+- **Objective:** Classify text as **Positive**, **Negative**, or **Neutral** using Machine Learning
 
 ---
 
