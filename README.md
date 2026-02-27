@@ -1,6 +1,7 @@
 # SuperToys.az — Product Catalogue Business Insights
 
-> **Data source:** supertoys.az/oyuncaqlar-105 · **Total products analysed:** 4,866 · **Categories:** 50+
+- > **Data source:** supertoys.az/oyuncaqlar-105 · 
+- > **Total products analysed:** 4,866 · **Categories:** 50+
 
 ---
 
